@@ -25,7 +25,7 @@ namespace Sorverteria.Web.Controllers
                   new Sorvete
                 {
                     Sabor = "Abacaxi",
-                    Descricao = "Muito bom!!!",
+                    Descricao = "Muito abacaxi!!!",
                     Foto = "http://www.receitasanamaria.net/wp-content/uploads/2015/01/Receita-Sorvete-Cremoso-de-Abacaxi.jpg"
                 }
             };
